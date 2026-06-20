@@ -81,7 +81,7 @@ const routes = [
       },
       {
         path: "test",
-        component: () => import("../pages/lecturer/tmp_Test.vue"),
+        component: () => import("../pages/lecturer/Test.vue"),
       },
       {
         path: "settings",
