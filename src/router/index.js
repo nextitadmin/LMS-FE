@@ -77,7 +77,7 @@ const routes = [
       },
       {
         path: "courses/:courseId/:section",
-        component: () => import("../pages/lecturer/CourseWorkspace.vue"),
+        component: () => import("../pages/lecturer/CourseWorkSpace.vue"),
       },
       {
         path: "test",
